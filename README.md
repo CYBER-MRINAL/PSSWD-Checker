@@ -36,7 +36,7 @@
 To run PSSWD-Checker, ensure you have Python installed on your machine. Follow these steps to clone the repository and run the script:
 
 ```bash
-git clone https://github.com/CYBEREYE-001/PSSWD-Checker.git
+git clone https://github.com/CYBER-MRINAL/PSSWD-Checker.git
 cd PSSWD-Checker
 python3 setup.py
 ```
@@ -82,7 +82,7 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out to me at [TELEGRAM](https://t.me/CYBEREYE001).
+For any inquiries or feedback, please reach out to me at [TELEGRAM](https://t.me/CYBERMRINAL).
 
 ---
 
