@@ -8,7 +8,7 @@ from collections import Counter
 import random
 import string
 
-# Hello This is CYBER-MRINAL
+# Hello This is CYBER-MRINAL. Welcome to My Code View.
 
 # Run figlet with the specified options
 subprocess.run(["figlet", "PSSWD-Checker"])
