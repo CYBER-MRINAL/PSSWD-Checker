@@ -8,6 +8,8 @@ from collections import Counter
 import random
 import string
 
+# Hello This is CYBER-MRINAL
+
 # Run figlet with the specified options
 subprocess.run(["figlet", "PSSWD-Checker"])
 print('>>---S-T-A-R-T-E-D---<<\n')
