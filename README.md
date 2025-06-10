@@ -1,7 +1,7 @@
 ## PSSWD-Checker
 - PSSWD-Checker is a powerful and user-friendly password strength evaluation tool designed to help users create secure passwords. In an age where data breaches are common, having a strong password is essential for protecting personal and sensitive information.
 
-```markdown
+```
 # PSSWD-Checker 🔒
 
 ## Table of Contents
