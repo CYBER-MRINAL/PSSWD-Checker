@@ -82,7 +82,7 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out to me at [TELEGRAM](https://t.me/CYBERMRINAL).
+For any inquiries or feedback, please reach out to me at [TELEGRAM](https://t.me/cybermrinalgroup).
 
 ---
 
